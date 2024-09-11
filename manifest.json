@@ -1,0 +1,33 @@
+{
+  "name": "Planet Clicker",
+  "start_url": "./index.html",
+  "id": "./index.html",
+  "display_override": ["standalone", "minimal-ui"],
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [
+    {
+      "src": "planetclicker.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/planetclickers.com_desktop.jpg",
+      "sizes": "2708x1478",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Gameplay of Planet Clicker"
+    },
+    {
+      "src": "screenshots/planetclickers.com_mobile.jpg",
+      "sizes": "1170x2532",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Gameplay of Planet Clicker"
+    }
+  ]
+}
